@@ -1,0 +1,6 @@
+# Nuxt Content
+
+::Test
+::
+::GlobalTest
+::
